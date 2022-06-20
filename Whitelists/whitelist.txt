@@ -54,3 +54,4 @@ graph.instagram.com
 consent.trustarc.com
 unagi-na.amazon.com
 i.instagram.com
+bilder.fernsehserien.de
