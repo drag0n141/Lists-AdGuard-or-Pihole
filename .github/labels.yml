@@ -1,0 +1,29 @@
+## more info https://github.com/crazy-max/ghaction-github-labeler
+- # automerge
+  name: ":bell: automerge"
+  color: "8f4fbc"
+  description: ""
+- # bug
+  name: ":bug: bug"
+  color: "b60205"
+  description: ""
+- # dependabot
+  name: ":robot: dependabot"
+  color: "0366d6"
+  description: ""
+- # docker
+  name: ":whale: docker"
+  color: "0e8a16"
+  description: ""
+- # documentation
+  name: ":memo: documentation"
+  color: "c5def5"
+  description: ""
+- # pinned
+  name: ":pushpin: pinned"
+  color: "28008e"
+  description: ""
+- # question
+  name: ":question: question"
+  color: "3f51b5"
+  description: ""
