@@ -96,3 +96,5 @@ upload.twitter.com
 api.twitter.com
 mobile.twitter.com
 l.instagram.com
+eum.instana.io
+eum-eu-west-1.instana.io
