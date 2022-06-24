@@ -10,7 +10,9 @@ akamaitechnologies.com
 akamaized.net
 amazonaws.com
 android.apis.google.com
+android.clients.google.com
 answers.microsoft.com
+api-tv.spotify.com
 api.ipify.org
 api.rlje.net
 api.twitter.com
@@ -22,6 +24,7 @@ apps.skype.com
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
 appspot-preview.l.google.com
+apresolve.spotify.com
 apt.sonarr.tv
 aspnetcdn.com
 attestation.xboxlive.com
@@ -30,6 +33,8 @@ bilder.fernsehserien.de
 bit.ly
 brightcove.net
 c.s-microsoft.com
+c.s-microsoft.com
+captive.apple.com
 cdn.cloudflare.net
 cdn.embedly.com
 cdn.optimizely.com
@@ -45,6 +50,7 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
+cloudsync-prod.s3.amazonaws.com
 community.spiceworks.com
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
@@ -69,6 +75,7 @@ distrowatch.com
 dl.delivery.mp.microsoft.com
 dl.dropbox.com
 dl.dropboxusercontent.com
+dl.google.com
 dns.msftncsi.com
 doodle.com
 download.sonarr.tv
@@ -81,7 +88,9 @@ edge.api.brightcove.com
 eds.xboxlive.com
 eum-eu-west-1.instana.io
 eum.instana.io
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 firebase-settings.crashlytics.com
+firestore.googleapis.com
 flingtrainer.com
 fls-eu.amazon.de
 fonts.gstatic.com
@@ -100,11 +109,14 @@ googleapis.com
 googleapis.l.google.com
 graph.instagram.com
 gravatar.com
+gsp1.apple.com
 gstatic.com
+gstaticadssl.l.google.com
 harrypotter.fandom.com
 help.ui.xboxlive.com
 hls.ted.com
 i.instagram.com
+i.s-microsoft.com
 i.ytimg.com
 i1.ytimg.com
 igg-games.com
@@ -116,6 +128,7 @@ imgs.xkcd.com
 imgur.com
 instantmessaging-pa.googleapis.com
 intercom.io
+ipv6.msftncsi.com
 jquery.com
 jsdelivr.net
 keystone.mwbsys.com
@@ -135,6 +148,7 @@ metrics.plex.tv
 microsoftonline.com
 mobile.twitter.com
 mrodevicemgr.officeapps.live.com
+msedge.api.cdp.microsoft.com
 msftncsi.com
 my.plexapp.com
 nexusrules.officeapps.live.com
@@ -143,6 +157,7 @@ notify.xboxlive.com
 npr-news.streaming.adswizz.com
 ns1.dropbox.com
 ns2.dropbox.com
+oauthaccountmanager.googleapis.com
 ocsp.apple.com
 office.com
 office.net
@@ -160,12 +175,16 @@ placeholdit.imgix.net
 players.brightcove.net
 plex.tv
 pricelist.skype.com
+prod.telemetry.ros.rockstargames.com
 products.office.com
 raw.githubusercontent.com
 realpython.com
+reddit-uploaded-media.s3-accelerate.amazonaws.com
 reddit.com
+reddit.map.fastly.net
 redirector.googlevideo.com
 redirector.gvt1.com
+reminders-pa.googleapis.com
 res.cloudinary.com
 s.click.aliexpress.com
 s.gateway.messenger.live.com
@@ -182,7 +201,9 @@ secure.surveymonkey.com
 self.events.data.microsoft.com
 services.sonarr.tv
 skyhook.sonarr.tv
+sls.update.microsoft.com.akadns.net
 sourceforge.net
+spclient.wg.spotify.com
 spclient.wg.spotify.com
 ssl.p.jwpcdn.com
 stackoverflow.com
@@ -190,6 +211,7 @@ starwars.fandom.com
 static.twitchcdn.net
 store-images.s-microsoft.com
 streamraiders.fandom.com
+styles.redditmedia.com
 subnautica.fandom.com
 support.microsoft.com
 t.co
@@ -204,6 +226,9 @@ thetvdb.com
 tinyurl.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
+tlu.dl.delivery.mp.microsoft.com
+tracking.dpd.de
+tracking.epicgames.com
 traffic.libsyn.com
 trakt.tv
 tvthemes.plexapp.com.cdn.cloudflare.net
@@ -222,14 +247,20 @@ win10.ipv6.microsoft.com
 winscp.net
 wp.com
 ws.audioscrobbler.com
+www.apple.com
+www.appleiphonecell.com
 www.dataplicity.com
 www.google.com
 www.googleadservices.com
 www.googleapis.com
 www.msftconnecttest.com
 www.msftncsi.com
+www.msftncsi.com
+www.msftncsi.com
 www.no-ip.com
 www.plex.tv
+www.redditmedia.com
+www.redditstatic.com
 www.tampermonkey.net
 www.wa.me
 www.youtube-nocookie.com
@@ -241,5 +272,6 @@ xsts.auth.xboxlive.com
 youtu.be
 youtube-nocookie.com
 youtube.com
+youtubei.googleapis.com
 yt3.ggpht.com
 zee.cws.conviva.com
