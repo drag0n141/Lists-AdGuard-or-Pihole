@@ -98,3 +98,5 @@ mobile.twitter.com
 l.instagram.com
 eum.instana.io
 eum-eu-west-1.instana.io
+aax-eu.amazon.de
+fls-eu.amazon.de
