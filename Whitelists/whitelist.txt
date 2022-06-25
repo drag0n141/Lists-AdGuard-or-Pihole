@@ -32,6 +32,7 @@ ax.phobos.apple.com.edgesuite.net
 bilder.fernsehserien.de
 bit.ly
 brightcove.net
+c.paypal.com
 c.s-microsoft.com
 c.s-microsoft.com
 captive.apple.com
