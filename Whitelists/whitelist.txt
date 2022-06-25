@@ -140,6 +140,7 @@ licensing.xboxlive.com
 linuxize.com
 live.com
 livepassdl.conviva.com
+logfiles.zoom.us
 login.live.com
 login.microsoftonline.com
 logincdn.msauth.net
