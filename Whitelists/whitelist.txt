@@ -143,6 +143,7 @@ livepassdl.conviva.com
 login.live.com
 login.microsoftonline.com
 logincdn.msauth.net
+m.exactag.com
 mail.google.com
 manifest.googlevideo.com
 metrics.plex.tv
