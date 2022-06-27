@@ -29,6 +29,7 @@ apt.sonarr.tv
 aspnetcdn.com
 attestation.xboxlive.com
 ax.phobos.apple.com.edgesuite.net
+b.stats.paypal.com
 bilder.fernsehserien.de
 bit.ly
 brightcove.net
