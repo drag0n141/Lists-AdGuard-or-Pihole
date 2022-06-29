@@ -94,6 +94,7 @@ fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 firebase-settings.crashlytics.com
 firestore.googleapis.com
 flingtrainer.com
+fls-eu.amazon.com
 fls-eu.amazon.de
 fonts.gstatic.com
 forums.sonarr.tv
