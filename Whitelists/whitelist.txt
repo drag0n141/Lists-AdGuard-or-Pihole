@@ -88,6 +88,7 @@ dynupdate.no-ip.com
 ecn.dev.virtualearth.net
 edge.api.brightcove.com
 eds.xboxlive.com
+eulatracking-public-service-prod06.ol.epicgames.com
 eum-eu-west-1.instana.io
 eum.instana.io
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
