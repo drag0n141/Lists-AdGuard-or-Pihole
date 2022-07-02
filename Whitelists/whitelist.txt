@@ -97,6 +97,7 @@ firestore.googleapis.com
 flingtrainer.com
 fls-eu.amazon.com
 fls-eu.amazon.de
+fls-na.amazon.com
 fonts.gstatic.com
 forums.sonarr.tv
 forums.tomshardware.com
