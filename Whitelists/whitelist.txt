@@ -246,6 +246,7 @@ upload.twitter.com
 video-stats.l.google.com
 videos.vidible.tv
 vidtech.cbsinteractive.com
+video.twimg.com
 wa.me
 wccftech.com
 widget-cdn.rpxnow.com
