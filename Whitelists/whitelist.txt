@@ -222,6 +222,7 @@ styles.redditmedia.com
 subnautica.fandom.com
 support.microsoft.com
 t.co
+t.paypal.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 tawk.to
