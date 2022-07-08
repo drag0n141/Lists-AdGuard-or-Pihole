@@ -176,6 +176,7 @@ om.cbsi.com
 onedrive.live.com
 outlook.live.com
 outlook.office365.com
+partners.hollisterco.com
 pings.conviva.com
 placehold.it
 placeholdit.imgix.net
