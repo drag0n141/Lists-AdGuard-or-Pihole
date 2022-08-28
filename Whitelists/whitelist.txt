@@ -219,6 +219,7 @@ stackoverflow.com
 starwars.fandom.com
 static.twitchcdn.net
 store-images.s-microsoft.com
+store.minisforum.de
 streamraiders.fandom.com
 styles.redditmedia.com
 subnautica.fandom.com
