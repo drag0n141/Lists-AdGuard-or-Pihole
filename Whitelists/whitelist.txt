@@ -9,6 +9,7 @@ akamaihd.net
 akamaitechnologies.com
 akamaized.net
 amazonaws.com
+androidtvwatsonfe-pa.googleapis.com
 android.apis.google.com
 android.clients.google.com
 answers.microsoft.com
@@ -54,6 +55,7 @@ clients5.google.com
 clients6.google.com
 cloudsync-prod.s3.amazonaws.com
 community.spiceworks.com
+config.ioam.de
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
 consent.trustarc.com
