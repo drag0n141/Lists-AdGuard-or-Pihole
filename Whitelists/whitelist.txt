@@ -175,6 +175,7 @@ officecdn.microsoft.com
 officecdn.microsoft.com.edgesuite.net
 officeclient.microsoft.com
 om.cbsi.com
+omdbapi.com
 onedrive.live.com
 outlook.live.com
 outlook.office365.com
