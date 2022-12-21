@@ -119,6 +119,7 @@ gravatar.com
 gsp1.apple.com
 gstatic.com
 gstaticadssl.l.google.com
+g4u.to
 harrypotter.fandom.com
 help.ui.xboxlive.com
 hls.ted.com
@@ -138,6 +139,7 @@ intercom.io
 ipv6.msftncsi.com
 jquery.com
 jsdelivr.net
+js.media-lab.ai
 keystone.mwbsys.com
 l.instagram.com
 lastfm-img2.akamaized.net
@@ -177,6 +179,7 @@ officeclient.microsoft.com
 om.cbsi.com
 omdbapi.com
 onedrive.live.com
+ottrun.com
 outlook.live.com
 outlook.office365.com
 partners.hollisterco.com
@@ -263,6 +266,7 @@ win10.ipv6.microsoft.com
 winscp.net
 wp.com
 ws.audioscrobbler.com
+wukds.shop
 www.apple.com
 www.appleiphonecell.com
 www.dataplicity.com
@@ -284,6 +288,7 @@ xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
 xkms.xboxlive.com
+xrel.to
 xsts.auth.xboxlive.com
 youtu.be
 youtube-nocookie.com
