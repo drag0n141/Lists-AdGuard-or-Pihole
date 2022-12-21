@@ -45,6 +45,7 @@ cdn.vidible.tv
 cdn2.optimizely.com
 cdn3.optimizely.com
 cdnjs.cloudflare.com
+ced-ns.sascdn.com
 cert.mgt.xboxlive.com
 clientconfig.passport.net
 clients1.google.com
