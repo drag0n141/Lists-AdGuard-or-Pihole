@@ -140,6 +140,7 @@ intercom.io
 ipv6.msftncsi.com
 jquery.com
 jsdelivr.net
+js.media-lab.ai
 keystone.mwbsys.com
 l.instagram.com
 lastfm-img2.akamaized.net
