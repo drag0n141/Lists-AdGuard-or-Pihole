@@ -53,6 +53,7 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
+cloudfront.net
 cloudsync-prod.s3.amazonaws.com
 community.spiceworks.com
 config.ioam.de
@@ -139,7 +140,6 @@ intercom.io
 ipv6.msftncsi.com
 jquery.com
 jsdelivr.net
-js.media-lab.ai
 keystone.mwbsys.com
 l.instagram.com
 lastfm-img2.akamaized.net
