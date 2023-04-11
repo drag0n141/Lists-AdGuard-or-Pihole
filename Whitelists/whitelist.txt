@@ -18,6 +18,7 @@ api.ipify.org
 api.rlje.net
 api.twitter.com
 api2.amplitude.com
+api.ttv.lol
 app-api.ted.com
 app.plex.tv
 appleid.apple.com
